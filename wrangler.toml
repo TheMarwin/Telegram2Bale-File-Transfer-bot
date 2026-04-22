@@ -1,0 +1,7 @@
+name = "telegram-bale-forwarder"
+main = "worker.js"
+compatibility_date = "2026-04-22"
+
+[[kv_namespaces]]
+binding = "USER_KV"
+id = "YOUR_KV_NAMESPACE_ID"
